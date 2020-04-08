@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">这是一个GET请求按钮</string>
+    <string name="button1">这是一个POST请求按钮</string>
+    <string name="button2">这是一个DownLoad请求按钮</string>
+</resources>
