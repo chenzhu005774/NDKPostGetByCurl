@@ -1,5 +1,7 @@
 #include <jni.h>
 #include <string>
+#include <malloc.h>
+#include <string.h>
 #include "JniUtils.h"
 
 
